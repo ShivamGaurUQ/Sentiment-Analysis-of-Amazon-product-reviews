@@ -1,4 +1,4 @@
-# Product review and sentiment analysis
+# Product reviews and sentiment analysis
 
 
 The project uses opinion mining to analyse customer reviews about mobile phones sold on Amazon.com. The objective is to develop a prediction system that can be used to classify an input customer review of a mobile phone as a good review or a bad one.
