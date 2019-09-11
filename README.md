@@ -34,6 +34,7 @@ jupyter notebook
 - Go to the bottom of the code to view the output of the code. At first click on START SYSTEM, and then select an option from the drop box.
 - Three options are available in the drop-down box:
 1. Analyze each model: Displays ROC curve, Accuracy and
+![](images/img3.png)
 2. Predict rating for New Review: Predicts the rating of the new customer review provided in the text box.
 3. Compare Models: Displays a plot comparing accuracy of all the models.
  Precision, Recall and F-
