@@ -33,10 +33,12 @@ jupyter notebook
 - To run the file, search the uploaded file in the list of files under the ‘Files’ tab on the home screen. The file will open in new tab of the browser. Then click on the ‘Run Cell’ button to run the code (shown below) Please Note: Execution might take a few minutes.
 - Go to the bottom of the code to view the output of the code. At first click on START SYSTEM, and then select an option from the drop box.
 - Three options are available in the drop-down box:
+![](images/img.png)
 1. Analyze each model: Displays ROC curve, Accuracy and
 ![](images/img3.png)
 2. Predict rating for New Review: Predicts the rating of the new customer review provided in the text box.
 3. Compare Models: Displays a plot comparing accuracy of all the models.
- Precision, Recall and F-
- Measure for each model. The model for analysis can be chosen further from the
+ Precision, Recall and F-Measure for each model. The model for analysis can be chosen further from the
  new dropdown box.
+ 
+ ![](images/img2.png)
