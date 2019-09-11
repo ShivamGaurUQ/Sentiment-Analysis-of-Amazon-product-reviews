@@ -4,7 +4,7 @@
 - The objective is to develop a prediction system that can be used to classify an input customer review of a mobile phone as a good review or a bad one.
 - The prediction system uses Ensemble Classifier to classify the input reviews. 
 - Compared other classification models such as SVM, Logistic Regression, Multinomial Naïve Bayes, Bernoulli NB, Decision Tree and k-NN but found out that Ensemble Classifier had the best accuracy. 
-- The dataset used consists of more than 400,000 reviews from amazon’s unlocked mobile phone category and is available at www.kaggle.com.
+- The dataset used consists of more than 400,000 reviews from amazon’s unlocked mobile phone category and is available at www.kaggle.com or download the zip file from https://drive.google.com/drive/folders/1IFaZbGO-Fa9oplNcaJVNzYIgTO6MWxD-?usp=sharing 
 
 # Dependencies
 
