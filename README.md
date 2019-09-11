@@ -20,3 +20,22 @@
 3. Sentimental_Analysis_OfCustomerReviews_System_Using_Count_Vectorization_Technique.ipynb: This file consists of the code to run the application and uses Count Vectorization Technique for text transformation. The application consists of GUI for easy usability and allow users to predict the rating of new review, analyze and compare different classification models based on their accuracy, precision, recall and f-measure.
 
 4. Sentimental_Analysis_OfCustomerReviews_System_Using_TFIDF_Technique.ipynb: This file consists of the code to run the application and uses TFIDF Technique for text transformation. The application consists of GUI for easy usability and allow users to predict the rating of new review, analyze and compare different classification models based on their accuracy, precision, recall and f-measure.
+
+# Steps to run the code
+
+- Download Anaconda 5.0.0 for Windows or Mac OS from the link: https://www.anaconda.com/download/. 
+- Install and run the downloaded version of Anaconda on the computer.
+- ‘Jupyter Notebook’ has been installed. To run the ‘Jupyter Notebook’ execute the below command in the Anaconda prompt:
+
+jupyter notebook
+
+- Before running the code files, upload the dataset file, "Amazon_Unlocked_Mobile.csv" in the ‘Jupyter Notebook’.
+- To run the file, search the uploaded file in the list of files under the ‘Files’ tab on the home screen. The file will open in new tab of the browser. Then click on the ‘Run Cell’ button to run the code (shown below) Please Note: Execution might take a few minutes.
+- Go to the bottom of the code to view the output of the code. At first click on START SYSTEM, and then select an option from the drop box.
+- Three options are available in the drop-down box:
+1. Analyze each model: Displays ROC curve, Accuracy and
+2. Predict rating for New Review: Predicts the rating of the new customer review provided in the text box.
+3. Compare Models: Displays a bar graph of accuracy of all the models.
+ Precision, Recall and F-
+ Measure for each model. The model for analysis can be chosen further from the
+ new dropdown box.
