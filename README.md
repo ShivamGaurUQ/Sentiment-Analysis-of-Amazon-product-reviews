@@ -37,8 +37,14 @@ jupyter notebook
 1. Analyze each model: Displays ROC curve, Accuracy and
 ![](images/img3.png)
 2. Predict rating for New Review: Predicts the rating of the new customer review provided in the text box.
+
+![](images/img4.png)
+
 3. Compare Models: Displays a plot comparing accuracy of all the models.
  Precision, Recall and F-Measure for each model. The model for analysis can be chosen further from the
  new dropdown box.
  
  ![](images/img2.png)
+ 
+ ![](images/img5.png)
+
