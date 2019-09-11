@@ -35,7 +35,7 @@ jupyter notebook
 - Three options are available in the drop-down box:
 1. Analyze each model: Displays ROC curve, Accuracy and
 2. Predict rating for New Review: Predicts the rating of the new customer review provided in the text box.
-3. Compare Models: Displays a bar graph of accuracy of all the models.
+3. Compare Models: Displays a plot comparing accuracy of all the models.
  Precision, Recall and F-
  Measure for each model. The model for analysis can be chosen further from the
  new dropdown box.
